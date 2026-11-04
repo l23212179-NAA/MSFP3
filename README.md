@@ -50,7 +50,7 @@ La práctica tiene como propósito **desarrollar un procedimiento completo de mo
 
 A través de la **analogía fuerza–voltaje**, los elementos mecánicos se transforman en un circuito eléctrico equivalente donde las fuerzas corresponden a voltajes, las velocidades a corrientes y los desplazamientos a carga eléctrica. Se estudia el comportamiento dinámico comparando un sujeto sano frente a una patología de atrofia muscular representada por una alteración en la componente viscosa $R$. Se incorpora un **controlador PID con retroalimentación negativa** que toma la respuesta del sujeto sano como referencia para corregir la respuesta del sujeto con atrofia. Los resultados se validan mediante MATLAB, Simulink, Simscape Electrical y Python.
 
-**Palabras clave:** sistema musculoesquelético; atrofia muscular; analogía fuerza-voltaje; controlador PID; modelado de sistemas fisiológicos; MATLAB; Simulink; Simscape Electrical; Python; simulación *in silico*.
+**Palabras clave:** Sistema musculoesquelético; Atrofia muscular; Analogía fuerza-voltaje; Controlador PID; Modelo viscoelástico; BioRender; MATLAB; Simulink; Simscape Electrical; Python; Simulación *in silico*.
 
 [Volver al contenido](#contenido)
 
